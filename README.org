@@ -4,7 +4,7 @@ Generic hacks used in any project
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/kennytilton/utils-kt.git   |
-| commit  | {"messa  |
+| commit  | 4adfe28  |
 | systems | utils-kt |
 |---------+-------------------------------------------|
 
