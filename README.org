@@ -1,0 +1,10 @@
+* utils-kt
+
+Generic hacks used in any project
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/kennytilton/utils-kt.git   |
+| commit  | {"messa  |
+| systems | utils-kt |
+|---------+-------------------------------------------|
+
